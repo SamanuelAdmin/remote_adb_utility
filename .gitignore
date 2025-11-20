@@ -1,0 +1,9 @@
+# build files
+/build
+build.gradle.kts
+proguard-rules.pro
+
+# tests
+src/test/
+androidTest/
+
