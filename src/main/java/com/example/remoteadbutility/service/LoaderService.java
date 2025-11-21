@@ -1,4 +1,4 @@
-package com.example.remoteadbutility;
+package com.example.remoteadbutility.service;
 
 import android.app.IntentService;
 import android.content.Intent;
