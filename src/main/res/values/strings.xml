@@ -3,7 +3,7 @@
     <string name="app_name" translatable="false">Remote Adb Utility</string>
     <string name="default_status_name" translatable="false">Not connected</string>
     <string name="instructions">
-        Instructions:
+        Loading...
     </string>
     <string name="created_by"><a href="https://github.com/SamanuelAdmin">Created by Samanuel Admin</a></string>
 </resources>

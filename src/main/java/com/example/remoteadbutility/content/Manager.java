@@ -4,7 +4,7 @@ import android.util.Log;
 
 public class Manager implements Runnable {
     // Main class for inner business logic
-
+    private static String TAG = "RADBU_Manager";
     private boolean started = false;
 
     public Manager() {
